@@ -1,11 +1,12 @@
 ### Hi there, I'm Anish. 👋
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,reactjs,nextjs,chakraui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,reactjs,nextjs)](https://skillicons.dev)
 
 ![AnishShahi123's Stats](https://github-readme-stats.vercel.app/api?username=AnishShahi123&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 <!--
 **AnishShahi123/AnishShahi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
