@@ -3,7 +3,7 @@
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,redux,express,vercel)](https://skillicons.dev)
 
-![AnishShahi123's Stats](https://github-readme-stats.vercel.app/api?username=AnishShahi123&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![AnishShahi123's Stats](https://github-readme-stats.vercel.app/api?username=jrroshan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
