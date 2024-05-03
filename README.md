@@ -1,5 +1,8 @@
 ### Hi there, I'm Anish. 👋
 
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,reactjs,nextjs,typescript)](https://skillicons.dev)
+
 ![AnishShahi123's Stats](https://github-readme-stats.vercel.app/api?username=AnishShahi123&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
