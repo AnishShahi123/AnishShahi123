@@ -1,4 +1,5 @@
-## Hi there, I'm Anish. 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anish.
+=======================================================================================================================================
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,redux,express,vercel)](https://skillicons.dev)
