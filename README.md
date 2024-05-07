@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,redux,express,vercel)](https://skillicons.dev)
 
-![AnishShahi123's Stats](https://github-readme-stats-qtg8.vercel.app/api?username=AnishShahi123)
+![AnishShahi123's Stats](https://github-readme-stats-qtg8.vercel.app/api?username=AnishShahi123&show_icons=true&theme=radical)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnishShahi123/AnishShahi123/output/github-contribution-grid-snake-dark.svg">
