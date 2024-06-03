@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,redux,express,nodejs,mongodb,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,redux,express,nodejs,mongodb,vercel,heroku)](https://skillicons.dev)
 
 ![AnishShahi123's Stats](https://github-readme-stats-qtg8.vercel.app/api?username=AnishShahi123&show_icons=true&theme=radical)
 
