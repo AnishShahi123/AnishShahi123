@@ -117,7 +117,7 @@ I believe good software comes from combining technical knowledge with curiosity 
 ## `05` — GITHUB TELEMETRY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnishShahi123&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4fd8&icon_color=67e8f9&text_color=c9d1d9&ring_color=ff4fd8&include_all_commits=true" height="180" alt="GitHub statistics" />
+  <img src="https://github-readme-stats-qtg8.vercel.app/api?username=AnishShahi123&show_icons=true&theme=radical&hide_border=true" height="180" alt="Anish Shahi GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishShahi123&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff4fd8&text_color=c9d1d9" height="180" alt="Most-used languages" />
 </p>
 
@@ -126,7 +126,11 @@ I believe good software comes from combining technical knowledge with curiosity 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnishShahi123&bg_color=0d1117&color=c9d1d9&line=ff4fd8&point=67e8f9&area=true&hide_border=true&custom_title=THE%20BUILD%20TIMELINE" width="100%" alt="GitHub activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnishShahi123/AnishShahi123/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnishShahi123/AnishShahi123/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/AnishShahi123/AnishShahi123/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </p>
 
 ---
